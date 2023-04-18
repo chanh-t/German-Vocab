@@ -1,0 +1,296 @@
+-
+-
+-
+-
+- Freizeit (Leisure Time)
+besuchen
+to visit
+none
+-
+hören
+to listen
+none
+-
+kochen
+to cook
+none
+-
+liegen
+to lie
+none
+-
+machen
+to do
+none
+-
+reisen
+to travel
+none
+-
+schwimmen
+to swim
+none
+-
+spazieren gehen
+to go for a walk
+none
+-
+spielen
+to play
+none
+-
+tanzen
+to dance
+none
+-
+wandern
+to hike
+none
+-
+Musik
+music
+die
+-
+Sonne
+sun
+die
+-
+Stunde
+hour
+die
+-
+Wohnung
+apartment
+die
+-
+Zeit
+time
+die
+-
+Zeitung
+newspaper
+die
+-
+Kaffee
+coffee
+der
+-
+Tier
+animal
+das
+-
+Wochenende
+weekend
+das
+-
+Am Wochenende
+over the weekend
+none
+-
+Zimmer
+room
+das
+-
+gern
+to like
+none
+- Schule und Universität
+beginnen
+to begin
+none
+-
+lernen
+to study, learn
+none
+-
+Arbeit
+work
+die
+-
+Chemie
+chemistry
+die
+-
+Fremdsprache
+foreign language
+die
+-
+Geschichte
+history; story
+die
+-
+Informatik
+computer science
+die
+-
+Literatur
+literature
+die
+-
+Mathematik
+mathematics
+die
+-
+Montag
+Monday
+der
+-
+Dienstag
+Tuesday
+der
+-
+Mittwoch
+Wednesday
+der
+-
+Donnerstag
+Thursday
+der
+-
+Freitag
+Friday
+der
+-
+Samstag
+Saturday
+der
+-
+Sonntag
+Sunday
+der
+-
+Bett
+bed
+das
+-
+Hauptfach
+major
+der
+-
+Hause
+house
+das
+-
+halb
+half
+none
+-
+Welcher Tag ist heute?
+What day is it today?
+none
+-
+Wie spät ist es?
+What time is it?
+none
+-
+Wie viel Uhr ist es?
+What time is it?
+none
+- Alltag (Everyday life)
+abholen
+to pick up someone
+none
+-
+ankommen
+to arrive
+none
+-
+anrufen
+to call
+none
+-
+anschauen
+to look at, watch
+none
+-
+aufgeben
+to give up
+none
+-
+aufhören
+to stop doing something
+none
+-
+ausfüllen
+to fill out
+none
+-
+ausgehen
+to go out
+none
+-
+bekommen
+to receive
+none
+-
+duschen
+to (take a) shower
+none
+-
+einkaufen
+to shop, shop for
+none
+-
+frühstücken
+to eat breakfast
+none
+-
+kaufen
+to buy
+none
+-
+Prüfung
+test
+die
+-
+früh
+early
+none
+-
+spät
+late, later
+none
+-
+endlich
+final, finally
+none
+-
+brauchen
+to need
+none
+-
+suchen
+to search, look for
+none
+-
+verlieren
+to lose
+none
+-
+Adresse
+address
+die
+-
+Beziehung
+relationship
+die
+-
+Größe
+height
+die
+-
+Gespräch
+conversation
+das
+-
+Zug
+train
+der
+-
+geboren
+born
+none
+-
+Wann sind Sie geboren?
+When were you born?
+none

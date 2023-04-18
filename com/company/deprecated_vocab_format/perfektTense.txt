@@ -1,0 +1,64 @@
+-
+-
+-
+-
+-
+ankommen
+angekommen
+to arrive
+-
+aufstehen
+aufgestanden
+to get up
+-
+auftreten
+aufgetreten
+to appear
+-
+ausgehen
+ausgegangen
+to go out
+-
+fahren
+gefahren
+to drive
+-
+fliegen
+geflogen
+to fly
+-
+folgen
+gefolgt
+to follow
+-
+gehen
+gegangen
+to walk
+-
+geschehen
+geschehen
+to happen
+-
+kommen
+gekommen
+to come
+-
+laufen
+gelaufen
+to run
+-
+reisen
+gereist
+to travel
+-
+schwimmen
+geschwommen
+to swim
+-
+sterben
+gestorben
+to die
+-
+wandern
+gewandert
+to hike

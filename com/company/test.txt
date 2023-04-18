@@ -1,0 +1,25 @@
+-
+second '-' will indicate the end of the comment
+:)
+-
+VERB_GER: ankommen
+VERB_ENG: to arrive
+PERFEKT_TENSE: angekommen
+-
+VERB_GER: aufstehen
+VERB_ENG: to get up
+PERFEKT_TENSE: aufgestanden
+-
+VERB_GER: werden
+VERB_ENG: getting
+
+CONJUG_ICH: werde
+CONJUG_DU: wirst
+CONJUG_SIE: werden
+CONJUG_ER_SIE_ES: wird
+CONJUG_WIR: werden
+CONJUG_IHR: werdet
+DESCRIPTION: To talk about changing conditions
+EXAMPLE: Ich werde alt -> I am getting old || Es wird dunkel -> It is getting dark
+-
+END_OF_FILE

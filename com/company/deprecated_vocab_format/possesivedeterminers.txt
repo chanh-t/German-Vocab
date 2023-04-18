@@ -1,0 +1,39 @@
+-
+-
+-
+-
+- Possesive Determiners
+mine
+mein, meine, meinen
+none
+-
+your (informal, singular)
+dein, deine, deinen
+none
+-
+your (formal, singular)
+Ihr, Ihre, Ihren
+none
+-
+his, its
+sein, seine, seinen
+none
+-
+her, its
+ihr, ihre, ihren
+none
+-
+our
+unser, unsere, unseren
+none
+-
+your (informal, plural)
+euer, euere, eueren
+none
+-
+your (formal, plural)
+Ihr, Ihre, Ihren
+none
+-
+their
+ihr, ihre, ihren

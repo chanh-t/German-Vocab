@@ -1,0 +1,284 @@
+- FORMATING BELOW (first 4 lines is ignored), bottom line should not contain "-"
+german word
+english word
+gender
+-
+Laptop
+laptop
+der
+-
+Sessel
+armchair
+der
+-
+Klavier
+piano
+das
+-
+Regal
+shelves
+das
+-
+Gitarre
+guitar
+die
+-
+Fernseher
+television
+der
+-
+Teppich
+carpet
+der
+-
+Bücher
+books
+die
+-
+Telefon
+phone
+das
+-
+Bett
+bed
+das
+-
+Bilder
+pictures
+die
+-
+Schreibtisch
+desk (writing)
+der
+-
+Stuhl
+chair
+der
+-
+Lampe
+lamp
+die
+-
+Radio
+radio
+das
+-
+Schrank
+cupboard
+der
+-
+Frisur
+Hairstyle
+die
+-
+Ohrring
+earring
+der
+-
+Kette
+chain
+die
+-
+Sporthose
+sportspants
+die
+-
+Sonnenbrille
+sunglasses
+die
+-
+Bademantel
+bathrobe
+der
+-
+Handschuhe
+gloves
+die
+-
+Rock
+skirt
+der
+-
+Füße
+feet
+die
+-
+Halskette
+necklace
+die
+-
+Hausaufgaben
+homework
+die
+-
+sehr
+very
+none
+-
+liesen
+to read
+none (verb)
+-
+fahren
+to drive
+none (verb)
+-
+trinken
+to drink
+none (verb)
+-
+backen
+to bake
+none (verb)
+-
+leiber (in place of gern)
+prefer
+none (verb)
+-
+vergessen
+to forget
+none (verb)
+-
+laufen
+to run
+none (verb)
+-
+essen
+to eat
+none (verb)
+-
+treffen
+to meet
+none (verb)
+-
+Eis
+ice/icecream
+das
+-
+kochen
+to cook
+none (verb)
+-
+kommen
+to come
+none (verb)
+-
+ankommen
+to arrive
+none (verb)
+-
+stehen
+to stand
+none (verb)
+-
+kaufen
+to buy
+none (verb)
+-
+ankaufen
+to shop
+none (verb)
+-
+abholen
+to pick up
+none (verb)
+-
+anbieten
+to offer
+none (verb)
+-
+annehmen
+to accept; to adopt; to assume
+none (verb)
+-
+anrufen
+to call up
+none (verb)
+-
+anschauen
+to watch
+none (verb)
+-
+aufgeben
+to give up; to hand in
+none (verb)
+-
+aufhören
+to stop, be over
+none (verb)
+-
+ausgehen
+to get out
+none (verb)
+-
+aufreten
+to appear/occur
+none (verb)
+-
+darstellen
+to represent/portray
+none (verb)
+-
+vorstellen
+to introduce
+none (verb)
+-
+Lautsprecher
+speaker
+die
+-
+Nachthemd
+night gown
+das
+-
+Unterhemd
+undershirt
+das
+-
+Unterhose
+underpants
+die
+-
+Socken
+socks
+der
+-
+Sandalen
+sandals
+die
+-
+Armband
+bracelet
+das
+-
+einladen
+to invite
+none
+-
+siehen
+to watch/look
+none
+-
+brauchen
+to need
+none
+-
+liegen
+to lay
+none
+-
+bis
+until
+none
+-
+können
+can, to be able to, know how to
+none
+-
+wollen
+want to/intend to (not will)
+none
+-
+möchen
+would like
+none

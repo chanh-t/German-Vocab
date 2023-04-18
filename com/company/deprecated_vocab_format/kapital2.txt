@@ -1,0 +1,312 @@
+-
+-
+-
+-
+- Besitz (Possessions)
+aussehen
+to look, appear
+none
+-
+glauben
+to believe
+none
+-
+lösen
+to solve
+none
+-
+möchte
+would like
+none
+-
+Sport treiben
+to do sports, work out
+none
+-
+zahlen
+to pay
+none
+-
+ziehen
+to draw; pull; move
+none
+-
+Katze
+cat
+die
+-
+Rechnung
+bill; calculation
+die
+-
+Reise
+trip, journey
+die
+-
+Trauer
+sorrow
+die
+-
+Fernseher
+TV
+der
+-
+Hund
+dog
+der
+-
+Ruchsack
+backpack
+der
+-
+Schlafsack
+sleeping bag
+der
+-
+Schrank
+wardrobe cabinet, cupboard
+der
+-
+Schreibtisch
+desk
+der
+-
+Sessel
+armchair
+der
+-
+Spieler
+player
+der
+-
+Teppich
+carpet
+der
+-
+Boot
+boat
+das
+-
+Fahrrad
+bicycle
+das
+-
+Geld
+money
+das
+-
+Geschäft
+store
+das
+-
+Klavier
+piano
+das
+-
+Pferd
+horse
+das
+-
+Regal
+bookshelf
+das
+-
+Zelt
+tent
+das
+-
+besser
+better
+none
+-
+falsch
+wrong
+none
+-
+alles
+everything
+none
+-
+diese
+these
+none
+-
+morgen
+tomorrow
+none
+-
+schon
+already
+none
+- Geschenke (gifts)
+einladen
+to invite
+none
+-
+finden
+to find
+none
+-
+mitbringen
+to bring along
+none
+-
+schlafen
+to sleep
+none
+-
+sitzen
+to sit
+none
+-
+vergessen
+to forget
+none
+-
+wissen, weiß
+to know
+none
+-
+Einladung
+invitation
+die
+-
+Freude
+joy, pleasure
+die
+-
+Höhe
+height, amount
+die
+-
+Kamera
+camera
+die
+-
+Nachfrage
+inquiry; demand
+die
+-
+Tasse
+cup
+die
+-
+Bier
+beer
+das
+-
+Brett
+board
+das
+-
+Geschenk
+gift
+das
+-
+Wort
+word
+das
+-
+etwas
+something
+none
+-
+heute Abend
+this evening
+none
+- Clothes and Appearance
+bringen
+to bring
+none
+-
+kosten
+to cost
+none
+-
+leben
+to live
+none
+-
+passen
+to match, go with
+none
+-
+verkaufen
+to sell
+none
+-
+Kette
+chain
+none
+-
+fremd
+foreign
+none
+-
+schlecht
+bad(ly)
+none
+- Freude (Pleasure)
+aufwachen
+to wake up
+none
+-
+essen
+to eat
+none
+-
+Essen
+food
+none
+-
+sehen
+to see
+none
+-
+treffen
+to meet
+none
+-
+Bus
+bus
+der
+-
+Einfluss
+influence
+der
+-
+langweilig
+bored
+none
+-
+laut
+loud
+none
+-
+ständig
+constantly
+none
+-
+lieber
+prefer
+none
+- Präpositionen (Prepositions)
+an
+at; on; to
+none
+-
+bei
+with; at
+none
+-
+bis
+until
+none
+-
+für
+for
+none
+-
+zu
+to; for (an occasion)
+none

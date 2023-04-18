@@ -1,0 +1,12 @@
+- FORMATING BELOW (first 4 lines is ignored), bottom line should not contain "-"
+german word
+english word
+ich
+du
+Sie
+er,die,es
+wir
+Ihr
+Sie
+sie
+-
