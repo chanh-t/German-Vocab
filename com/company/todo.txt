@@ -1,0 +1,6 @@
+What I have so far:
+- parser for nouns
+- add field for verb to noun counter part
+- add test cases
+    - why? to ensure any code changes won't break current version
+    - how? not sure yet. currently working on adding support for nouns

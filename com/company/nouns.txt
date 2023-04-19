@@ -1,0 +1,7 @@
+-
+noun file format will follow the format of verbs
+-
+NOUN_GER: sommer
+NOUN_ENG: summer
+NOUN_GENDER: der
+-

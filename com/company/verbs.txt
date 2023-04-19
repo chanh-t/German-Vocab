@@ -1,5 +1,6 @@
 -
 second '-' will indicate the end of the comment
+the '-' after every verb indicates that it will be added to the list of vocab
 :)
 -
 VERB_GER: ankommen
@@ -20,5 +21,11 @@ CONJUG_WIR: werden
 CONJUG_IHR: werdet
 DESCRIPTION: To talk about changing conditions
 EXAMPLE: Ich werde alt -> I am getting old || Es wird dunkel -> It is getting dark
+-
+VERB_GER: hilfen
+VERB_ENG: to help
+-
+VERB_GER: verdienen
+VERB_ENG: to earn (money)
 -
 END_OF_FILE
