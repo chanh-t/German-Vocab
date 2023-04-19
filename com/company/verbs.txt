@@ -12,7 +12,6 @@ PERFEKT_TENSE: aufgestanden
 -
 VERB_GER: werden
 VERB_ENG: getting
-
 CONJUG_ICH: werde
 CONJUG_DU: wirst
 CONJUG_SIE: werden
