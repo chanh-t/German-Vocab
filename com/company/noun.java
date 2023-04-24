@@ -18,6 +18,6 @@ final public class noun {
 
     @Override
     public String toString() {
-        return NOUN_GER;
+        return NOUN_GER + " " + NOUN_ENG + " " + NOUN_GENDER;
     }
 }

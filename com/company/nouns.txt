@@ -1,7 +1,56 @@
 -
 noun file format will follow the format of verbs
 -
-NOUN_GER: sommer
-NOUN_ENG: summer
+NOUN_GER: Arzt
+NOUN_ENG: doctor
 NOUN_GENDER: der
 -
+NOUN_GER: Verkäufer
+NOUN_ENG: seller
+NOUN_GENDER: der
+-
+NOUN_GER: Anwalt
+NOUN_ENG: lawyer
+NOUN_GENDER: der
+-
+NOUN_GER: Pilot
+NOUN_ENG: pilot
+NOUN_GENDER: der
+-
+NOUN_GER: Richter
+NOUN_ENG: judge
+NOUN_GENDER: der
+-
+NOUN_GER: Bauarbeiter
+NOUN_ENG: construction worker
+NOUN_GENDER: der
+-
+NOUN_GER: Architekt
+NOUN_ENG: architect
+NOUN_GENDER: der
+-
+NOUN_GER: Krankenpfleger
+NOUN_ENG: nurse
+NOUN_GENDER: der
+-
+NOUN_GER: Politiker
+NOUN_ENG: politician
+NOUN_GENDER: der
+-
+NOUN_GER: Wissenschaftler
+NOUN_ENG: scientist
+NOUN_GENDER: der
+-
+NOUN_GER: Lehrer
+NOUN_ENG: teacher
+NOUN_GENDER: der
+-
+NOUN_GER: Kellner
+NOUN_ENG: waitress
+NOUN_GENDER: der
+-
+NOUN_GER: Mechaniker
+NOUN_ENG: mechanic
+NOUN_GENDER: der
+-
+END_OF_FILE

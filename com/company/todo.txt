@@ -1,6 +1,5 @@
-What I have so far:
-- parser for nouns
-- add field for verb to noun counter part
-- add test cases
-    - why? to ensure any code changes won't break current version
-    - how? not sure yet. currently working on adding support for nouns
+Priority list:
+1. add conjugations tests for verbs
+2. add an interface
+    - design heavy
+3. add test cases (probably not necessary)
