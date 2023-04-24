@@ -9,21 +9,27 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) throws FileNotFoundException {
-        File file_verb = new File("/Users/chanhtruong/Personal-Projects/german/src/com/company/verbs.txt");
-        File file_noun = new File("/Users/chanhtruong/Personal-Projects/german/src/com/company/nouns.txt");
+        //File file_verb = new File("/Users/chanhtruong/Personal-Projects/german/src/com/company/verbs.txt");
+        //File file_noun = new File("/Users/chanhtruong/Personal-Projects/german/src/com/company/vocabulary/occupations_nouns.txt");
+        File file_noun = new File("/Users/chanhtruong/Personal-Projects/german/src/com/company/vocabulary/common_nouns.txt");
 
-        Scanner scanner_verb = new Scanner(file_verb);
+
+
+        //Scanner scanner_verb = new Scanner(file_verb);
         Scanner scanner_noun = new Scanner(file_noun);
 
-        ArrayList<verb> verb_vocabs = new ArrayList<verb>();
+
+
+        //ArrayList<verb> verb_vocabs = new ArrayList<verb>();
         ArrayList<noun> noun_vocabs = new ArrayList<noun>();
 
-        noun_parser(file_noun, scanner_noun, noun_vocabs);
 
+
+        noun_parser(file_noun, scanner_noun, noun_vocabs);
         vocab_test_nouns(noun_vocabs, true, false);
 
-        verb_parser(file_verb, scanner_verb, verb_vocabs);
-        vocab_test_verbs(verb_vocabs, true, true);
+        //verb_parser(file_verb, scanner_verb, verb_vocabs);
+        //vocab_test_verbs(verb_vocabs, true, true);
 
     }
 

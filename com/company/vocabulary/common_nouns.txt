@@ -1,0 +1,244 @@
+-
+noun file format will follow the format of verbs
+-
+NOUN_GER: Zeit
+NOUN_ENG: time
+NOUN_GENDER: die
+-
+NOUN_GER: Jahr
+NOUN_ENG: year
+NOUN_GENDER: das
+-
+NOUN_GER: Mensch
+NOUN_ENG: person
+NOUN_GENDER: der
+-
+NOUN_GER: Tag
+NOUN_ENG: day
+NOUN_GENDER: der
+-
+NOUN_GER: Hand
+NOUN_ENG: hand
+NOUN_GENDER: die
+-
+NOUN_GER: Ding
+NOUN_ENG: thing
+NOUN_GENDER: das
+-
+NOUN_GER: Frau
+NOUN_ENG: woman
+NOUN_GENDER: die
+-
+NOUN_GER: Mann
+NOUN_ENG: man
+NOUN_GENDER: der
+-
+NOUN_GER: Kind
+NOUN_ENG: child
+NOUN_GENDER: das
+-
+NOUN_GER: Auge
+NOUN_ENG: eye
+NOUN_GENDER: das
+-
+NOUN_GER: Woche
+NOUN_ENG: week
+NOUN_GENDER: die
+-
+NOUN_GER: Haus
+NOUN_ENG: house
+NOUN_GENDER: das
+-
+NOUN_GER: Wort
+NOUN_ENG: word
+NOUN_GENDER: das
+-
+NOUN_GER: Arbeit
+NOUN_ENG: work
+NOUN_GENDER: die
+-
+NOUN_GER: Freund
+NOUN_ENG: friend
+NOUN_GENDER: der
+-
+NOUN_GER: Stadt
+NOUN_ENG: city
+NOUN_GENDER: die
+-
+NOUN_GER: Auto
+NOUN_ENG: car
+NOUN_GENDER: das
+-
+NOUN_GER: Land
+NOUN_ENG: country
+NOUN_GENDER: das
+-
+NOUN_GER: Wasser
+NOUN_ENG: water
+NOUN_GENDER: das
+-
+NOUN_GER: Frage
+NOUN_ENG: question
+NOUN_GENDER: die
+-
+NOUN_GER: Hund
+NOUN_ENG: dog
+NOUN_GENDER: der
+-
+NOUN_GER: Welt
+NOUN_ENG: world
+NOUN_GENDER: die
+-
+NOUN_GER: Weg
+NOUN_ENG: way
+NOUN_GENDER: der
+-
+NOUN_GER: Buch
+NOUN_ENG: book
+NOUN_GENDER: das
+-
+NOUN_GER: Kopf
+NOUN_ENG: head
+NOUN_GENDER: der
+-
+NOUN_GER: Leben
+NOUN_ENG: life
+NOUN_GENDER: das
+-
+NOUN_GER: Tisch
+NOUN_ENG: table
+NOUN_GENDER: der
+-
+NOUN_GER: Nacht
+NOUN_ENG: night
+NOUN_GENDER: die
+-
+NOUN_GER: Zimmer
+NOUN_ENG: room
+NOUN_GENDER: das
+-
+NOUN_GER: Essen
+NOUN_ENG: food
+NOUN_GENDER: das
+-
+NOUN_GER: Schule
+NOUN_ENG: school
+NOUN_GENDER: die
+-
+NOUN_GER: Straße
+NOUN_ENG: street
+NOUN_GENDER: die
+-
+NOUN_GER: Geld
+NOUN_ENG: money
+NOUN_GENDER: das
+-
+NOUN_GER: Fuß
+NOUN_ENG: foot
+NOUN_GENDER: der
+-
+NOUN_GER: Tür
+NOUN_ENG: door
+NOUN_GENDER: die
+-
+NOUN_GER: Fenster
+NOUN_ENG: window
+NOUN_GENDER: das
+-
+NOUN_GER: Körper
+NOUN_ENG: body
+NOUN_GENDER: der
+-
+NOUN_GER: Tier
+NOUN_ENG: animal
+NOUN_GENDER: das
+-
+NOUN_GER: Ohr
+NOUN_ENG: ear
+NOUN_GENDER: das
+-
+NOUN_GER: Vater
+NOUN_ENG: father
+NOUN_GENDER: der
+-
+NOUN_GER: Mutter
+NOUN_ENG: mother
+NOUN_GENDER: die
+-
+NOUN_GER: Bruder
+NOUN_ENG: brother
+NOUN_GENDER: der
+-
+NOUN_GER: Schwester
+NOUN_ENG: sister
+NOUN_GENDER: die
+-
+NOUN_GER: Stuhl
+NOUN_ENG: chair
+NOUN_GENDER: der
+-
+NOUN_GER: Name
+NOUN_ENG: name
+NOUN_GENDER: der
+-
+NOUN_GER: Telefon
+NOUN_ENG: phone
+NOUN_GENDER: das
+-
+NOUN_GER: Arbeit
+NOUN_ENG: work
+NOUN_GENDER: die
+-
+NOUN_GER: Garten
+NOUN_ENG: garden
+NOUN_GENDER: der
+-
+NOUN_GER: Zeitung
+NOUN_ENG: newspaper
+NOUN_GENDER: die
+-
+NOUN_GER: Freundin
+NOUN_ENG: girlfriend
+NOUN_GENDER: die
+-
+NOUN_GER: Kaffee
+NOUN_ENG: coffee
+NOUN_GENDER: der
+-
+NOUN_GER: Uhr
+NOUN_ENG: clock
+NOUN_GENDER: die
+-
+NOUN_GER: Bild
+NOUN_ENG: picture
+NOUN_GENDER: das
+-
+NOUN_GER: Computer
+NOUN_ENG: computer
+NOUN_GENDER: der
+-
+NOUN_GER: Park
+NOUN_ENG: park
+NOUN_GENDER: der
+-
+NOUN_GER: Gesicht
+NOUN_ENG: face
+NOUN_GENDER: das
+-
+NOUN_GER: Regen
+NOUN_ENG: rain
+NOUN_GENDER: der
+-
+NOUN_GER: Bett
+NOUN_ENG: bed
+NOUN_GENDER: das
+-
+NOUN_GER: Familie
+NOUN_ENG: family
+NOUN_GENDER: die
+-
+NOUN_GER: Reise
+NOUN_ENG: trip
+NOUN_GENDER: die
+-
+END_OF_FILE
