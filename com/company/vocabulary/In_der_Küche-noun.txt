@@ -1,0 +1,23 @@
+-
+noun file format will follow the format of verbs
+-
+NOUN_GER: Küche
+NOUN_ENG: kitchen
+NOUN_GENDER: die
+-
+NOUN_GER: Schublade
+NOUN_ENG: drawer
+NOUN_GENDER: die
+-
+NOUN_GER: Kuchen
+NOUN_ENG: cake
+NOUN_GENDER: der
+-
+NOUN_GER: Kühlschrank
+NOUN_ENG: refrigerator
+NOUN_GENDER: der
+-
+NOUN_GER: Ofen
+NOUN_ENG: oven
+NOUN_GENDER: der
+-

@@ -1,5 +1,5 @@
 -
-noun file format will follow the format of verbs
+mainely
 -
 NOUN_GER: Zeit
 NOUN_ENG: time

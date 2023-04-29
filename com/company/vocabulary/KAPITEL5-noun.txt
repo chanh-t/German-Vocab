@@ -1,0 +1,212 @@
+-
+noun file format will follow the format of verbs
+-
+NOUN_GER: Flasche
+NOUN_ENG: bottle
+NOUN_GENDER: die
+-
+NOUN_GER: Köchin
+NOUN_ENG: female cook
+NOUN_GENDER: die
+-
+NOUN_GER: Kollegin
+NOUN_ENG: female colleague
+NOUN_GENDER: die
+-
+NOUN_GER: Menge
+NOUN_ENG: quantity, amount
+NOUN_GENDER: die
+-
+NOUN_GER: Möglichkeit
+NOUN_ENG: possibility
+NOUN_GENDER: die
+-
+NOUN_GER: Mütze
+NOUN_ENG: hat
+NOUN_GENDER: die
+-
+NOUN_GER: Präsidentin
+NOUN_ENG: female president
+NOUN_GENDER: die
+-
+NOUN_GER: Schauspielerin
+NOUN_ENG: actress
+NOUN_GENDER: die
+-
+NOUN_GER: Soldatin
+NOUN_ENG: female soldier
+NOUN_GENDER: die
+-
+NOUN_GER: Straße
+NOUN_ENG: street
+NOUN_GENDER: die
+-
+NOUN_GER: Beginn
+NOUN_ENG: beginning
+NOUN_GENDER: der
+-
+NOUN_GER: Eindruck
+NOUN_ENG: impression
+NOUN_GENDER: der
+-
+NOUN_GER: Einwohner
+NOUN_ENG: male resident
+NOUN_GENDER: der
+-
+NOUN_GER: Fall
+NOUN_ENG: collapse
+NOUN_GENDER: der
+-
+NOUN_GER: Topf
+NOUN_ENG: pot
+NOUN_GENDER: der
+-
+NOUN_GER: Messer
+NOUN_ENG: knife
+NOUN_GENDER: das
+-
+NOUN_GER: Gruppe
+NOUN_ENG: group
+NOUN_GENDER: die
+-
+NOUN_GER: Kraft
+NOUN_ENG: strength, power
+NOUN_GENDER: die
+-
+NOUN_GER: Liste
+NOUN_ENG: list
+NOUN_GENDER: die
+-
+NOUN_GER: Maschine
+NOUN_ENG: machine
+NOUN_GENDER: die
+-
+NOUN_GER: Angestellte
+NOUN_ENG: male employee
+NOUN_GENDER: der
+-
+NOUN_GER: Anwalt
+NOUN_ENG: male lawyer
+NOUN_GENDER: der
+-
+NOUN_GER: Arbeiter
+NOUN_ENG: male worker
+NOUN_GENDER: der
+-
+NOUN_GER: Architekt
+NOUN_ENG: male architect
+NOUN_GENDER: der
+-
+NOUN_GER: Fahrer
+NOUN_ENG: male driver
+NOUN_GENDER: der
+-
+NOUN_GER: Fehler
+NOUN_ENG: mistake, error
+NOUN_GENDER: der
+-
+NOUN_GER: Journalist
+NOUN_ENG: male journalist
+NOUN_GENDER: der
+-
+NOUN_GER: Patient
+NOUN_ENG: patient
+NOUN_GENDER: der
+-
+NOUN_GER: Pilot
+NOUN_ENG: pilot
+NOUN_GENDER: der
+-
+NOUN_GER: Polizist
+NOUN_ENG: male police officer
+NOUN_GENDER: der
+-
+NOUN_GER: Rasen
+NOUN_ENG: lawn
+NOUN_GENDER: der
+-
+NOUN_GER: Richter
+NOUN_ENG: male judge
+NOUN_GENDER: der
+-
+NOUN_GER: Schriftsteller
+NOUN_ENG: male writer
+NOUN_GENDER: der
+-
+NOUN_GER: Verkäufer
+NOUN_ENG: seller
+NOUN_GENDER: der
+-
+NOUN_GER: Verkehr
+NOUN_ENG: traffic
+NOUN_GENDER: der
+-
+NOUN_GER: Büro
+NOUN_ENG: office
+NOUN_GENDER: das
+-
+NOUN_GER: Gericht
+NOUN_ENG: courthouse; meal
+NOUN_GENDER: das
+-
+NOUN_GER: Ausbildung
+NOUN_ENG: craft specific training
+NOUN_GENDER: die
+-
+NOUN_GER: Bank
+NOUN_ENG: bank
+NOUN_GENDER: die
+-
+NOUN_GER: Erwartung
+NOUN_ENG: expectation
+NOUN_GENDER: die
+-
+NOUN_GER: Fabrik
+NOUN_ENG: factory
+NOUN_GENDER: die
+-
+NOUN_GER: Kasse
+NOUN_ENG: ticket booth
+NOUN_GENDER: das
+-
+NOUN_GER: Kirche
+NOUN_ENG: church
+NOUN_GENDER: die
+-
+NOUN_GER: Lehre
+NOUN_ENG: apprenticeship
+NOUN_GENDER: die
+-
+NOUN_GER: Polizei
+NOUN_ENG: police; police station
+NOUN_GENDER: die
+-
+NOUN_GER: Post
+NOUN_ENG: mail; post office
+NOUN_GENDER: die
+-
+NOUN_GER: Tankstelle
+NOUN_ENG: gas station
+NOUN_GENDER: das
+-
+NOUN_GER: Berater
+NOUN_ENG: male counselor
+NOUN_GENDER: der
+-
+NOUN_GER: Supermerkt
+NOUN_ENG: supermarket
+NOUN_GENDER: der
+-
+NOUN_GER: Brot
+NOUN_ENG: bread
+NOUN_GENDER: das
+-
+NOUN_GER: Konto; Koten
+NOUN_ENG: courthouse; meal
+NOUN_GENDER: das
+-
+NOUN_GER: Unternehmen
+NOUN_ENG: company, enterprise
+NOUN_GENDER: das
+-
+END_OF_FILE

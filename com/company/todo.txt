@@ -1,5 +1,7 @@
 Priority list:
 1. add conjugations tests for verbs
-2. add an interface
+2. add a method that parses both
+   nouns and verbs
+3. add an interface
     - design heavy
-3. add test cases (probably not necessary)
+4. add test cases (probably not necessary)

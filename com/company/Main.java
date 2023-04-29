@@ -13,17 +13,11 @@ public class Main {
         //File file_noun = new File("/Users/chanhtruong/Personal-Projects/german/src/com/company/vocabulary/occupations_nouns.txt");
         File file_noun = new File("/Users/chanhtruong/Personal-Projects/german/src/com/company/vocabulary/common_nouns.txt");
 
-
-
         //Scanner scanner_verb = new Scanner(file_verb);
         Scanner scanner_noun = new Scanner(file_noun);
 
-
-
         //ArrayList<verb> verb_vocabs = new ArrayList<verb>();
         ArrayList<noun> noun_vocabs = new ArrayList<noun>();
-
-
 
         noun_parser(file_noun, scanner_noun, noun_vocabs);
         vocab_test_nouns(noun_vocabs, true, false);
